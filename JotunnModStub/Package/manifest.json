@@ -1,0 +1,10 @@
+﻿{
+  "name": "FeruxModTemplate",
+  "description": "Mod Template(as a repository, codebase) for myself. if FERUXSWORD isn't in the game, something's wrong with my mod.",
+  "version_number": "1.0.0",
+  "website_url": "",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2333",
+    "ValheimModding-Jotunn-2.30.2"
+  ]
+}

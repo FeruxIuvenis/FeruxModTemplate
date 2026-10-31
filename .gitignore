@@ -1,0 +1,23 @@
+# Build output
+bin/
+obj/
+
+# IDE and user-specific files
+.idea/
+.vs/
+*.user
+*.suo
+*.sln.docstates
+*.csproj.user
+
+# Game and library DLLs (copyrighted / machine-specific)
+Libs/
+
+# Local machine paths (if you use Environment.props from Jotunn)
+Environment.props
+
+JotunnModStubUnity/
+
+# Misc
+*.bak
+*.tmp
